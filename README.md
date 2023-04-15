@@ -4,4 +4,4 @@ Signs are in this sequence
 (['કોઈ સંકેત નથી', 'હા', 'ના', 'તમે', 'હું', 'હફ્તો', 'કાર', 'આભાર', 'બહેરાપણું', 'સારું', 'ખરાબ', 'ખુશ','ઉદાસ','ગુસ્સા','ભાઈ', 'બહેન', 'પરિવાર', 'બાળક', 'છોકરો', 'છોકરી', 'પસંદ', 'ના પસંદ', 'પ્રેમ', 'ઘણું નફોકો', 'સાચું','ખોટું', 'મદદ', 'ઘર', 'કામ', 'શાળા', 'શીખો', 'લાલ', 'વાદળી', 'લીલો', 'સફેદ', 'કાળો', 'દિવસ', 'રાત', 'સાંજ', 'સવાર', 'હવે', 'કાલે', 'ગઈકા','સાઈકલ', 'ટ્રેન', 'પગપાળા', 'દુકાન', 'સસ્તું', 'મહંગું', 'ચા', 'પાણી', 'કોણ','કયો', 'ક્યારે', 'ક્યાં', 'કેમ', 'સરળ', 'મુશ્કેલ', 'સમજાયું'])
 Here on the link you will find 24 Pickle files. we have divided whole dataset in 6 parts. Each parts have 4 file. Training and Testing data & Training and Testing labels.
  
-**[Data set Link:](https://drive.google.com/drive/folders/1sr2VVlAKLZusOTVkqtTfGCzrTQJ_XFs1?usp=share_link).**
+**[Data set Link](https://drive.google.com/drive/folders/1sr2VVlAKLZusOTVkqtTfGCzrTQJ_XFs1?usp=share_link).**
