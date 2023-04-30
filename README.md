@@ -5,4 +5,4 @@ Signs are in this sequence: (['કોઈ સંકેત નથી', 'હા', '
 
 Here on the link you will find 24 Pickle files. we have divided whole dataset in 6 parts. Each parts have 4 file. Training and Testing data & Training and Testing labels.
  
-**[Data set Link](https://drive.google.com/drive/folders/1sr2VVlAKLZusOTVkqtTfGCzrTQJ_XFs1?usp=share_link).**
+**[Data set Link](https://gecbhar-my.sharepoint.com/:f:/g/personal/dhaval_patel_ec_gecbhar_gujgov_edu_in/EiXf7liraU5Mv1Si7hQ9O3oBC4jjl8d9ZReh2wqeCalaoA?e=MHFqse).**
